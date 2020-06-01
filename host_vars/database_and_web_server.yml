@@ -1,0 +1,7 @@
+# Host parameters files
+
+ansible_host: 192.168.29.206
+ansible_ssh_pass: centos
+db_name: employee_db
+db_user: db_user
+db_password: Passw0rd

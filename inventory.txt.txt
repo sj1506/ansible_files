@@ -1,0 +1,3 @@
+# Inventory file for web-app
+
+database_and_web_server
